@@ -19,83 +19,157 @@
         <añoPublicacion>20.71</añoPublicacion>
     </cd>
     <cd>
-        <titulo>Mapas</titulo>
-        <autor>Vetusta Morla</autor>
-        <editor>Anaya</editor>
-        <isbn>125-5457283165</isbn>
-        <precio>31.21</precio>
-        <numPaginas>190</numPaginas>
+        <titulo>Un día en el </titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
     </cd>
     <cd>
-        <titulo>Iros todos a tomar por culo</titulo>
-        <autor>Extremoduro</autor>
-        <editor>Producciones Mañas</editor>
-        <isbn>432-4541749562</isbn>
-        <precio>08.25</precio>
-        <numPaginas>250</numPaginas>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
     </cd>
-    <libro>
-        <titulo>Delparaiso</titulo>
-        <autor>Juan Del Val</autor>
-        <editor>Espasa</editor>
-        <isbn>462-7823143254</isbn>
-        <precio>09.78</precio>
-        <numPaginas>340</numPaginas>
-    </libro>
-    <libro>
-        <titulo>Arquitania</titulo>
-        <autor>Eva García</autor>
-        <editor>Editorial Planeta</editor>
-        <isbn>142-7821589562</isbn>
-        <precio>10.15</precio>
-        <numPaginas>650</numPaginas>
-    </libro>
-    <libro>
-        <titulo>El Móvil</titulo>
-        <autor>Álvaro García</autor>
-        <editor>Editorial Planeta</editor>
-        <isbn>142-7821581242</isbn>
-        <precio>10.15</precio>
-        <numPaginas>150</numPaginas>
-    </libro>
-    <libro>
-        <titulo>La única manera</titulo>
-        <autor>Álvaro García</autor>
-        <editor>Editorial Planeta</editor>
-        <isbn>142-7821581242</isbn>
-        <precio>12.15</precio>
-        <numPaginas>150</numPaginas>
-    </libro>
-    <libro>
-        <titulo>Los Otros</titulo>
-        <autor>Eva García</autor>
-        <editor>Editorial Planeta</editor>
-        <isbn>142-7821581242</isbn>
-        <precio>12.15</precio>
-        <numPaginas>150</numPaginas>
-    </libro>
-    <libro>
-        <titulo>Miss Marte</titulo>
-        <autor>Manuel Jabois</autor>
-        <editor>Alfaguara</editor>
-        <isbn>392-7879879262</isbn>
-        <precio>10.40</precio>
-        <numPaginas>170</numPaginas>
-    </libro>
-    <libro>
-        <titulo>Al Norte</titulo>
-        <autor>Francisco José Laure</autor>
-        <editor>Alfaguara</editor>
-        <isbn>392-7879879262</isbn>
-        <precio>10.50</precio>
-        <numPaginas>170</numPaginas>
-    </libro>
-    <libro>
-        <titulo>Roma</titulo>
-        <autor>Francisco José Laure</autor>
-        <editor>Alfaguara</editor>
-        <isbn>392-7879879262</isbn>
-        <precio>60.50</precio>
-        <numPaginas>170</numPaginas>
-    </libro>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+    <cd>
+        <titulo>La Rebelion De Los Hombres Rana</titulo>
+        <artista>El Último de la fila</artista>
+        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
+        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
+        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
+        <cancion tiempo= "5:20">Sin Llaves</cancion>
+        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
+        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
+        <cancion tiempo= "4:35">Dímelo Tú</cancion>
+        <cancion tiempo= "3:25">A Medio Soñar</cancion>
+        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
+        <cancion tiempo= "3:25">Illetes</cancion>
+        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <añoPublicacion>20.71</añoPublicacion>
+    </cd>
+
 </discoteca>
