@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <!--Comentarios-->
-<?xml-stylesheet type="text/xsl" href="cd_2.1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
 <discoteca>
     <cd>
         <titulo>La Rebelion De Los Hombres Rana</titulo>
@@ -34,8 +34,8 @@
         <cancion tiempo= "3:28">Rey sol</cancion>
         <cancion tiempo= "4:38">Saharabbey road</cancion>
         <cancion tiempo= "3:36">Al respirar</cancion>
-        <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <anioPublicacion>20.71</anioPublicacion>
+        <selloDiscografico>RepTDJ</selloDiscografico>
+        <anioPublicacion>2008</anioPublicacion>
     </cd>
     <cd>
         <titulo>Electroviral LP</titulo>
@@ -84,7 +84,7 @@
         <cancion tiempo= "4:50">Ley de grabitación univeral</cancion>
         <cancion tiempo= "4:35">N=1</cancion>
         <cancion tiempo= "3:25">Perfecto</cancion>
-        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <selloDiscografico>CD Records</selloDiscografico>
         <anioPublicacion>2010</anioPublicacion>
     </cd>
     <cd>
@@ -119,7 +119,7 @@
         <cancion tiempo= "3:25">Ciudadano A</cancion>
         <cancion tiempo= "5:30">Mi Furia Paranoica</cancion>
         <cancion tiempo= "3:25">La Banda del Garaje</cancion>
-        <selloDiscografico>Reproduciones DJS</selloDiscografico>
+        <selloDiscografico>CD Records</selloDiscografico>
         <anioPublicacion>2005</anioPublicacion>
     </cd>
     <cd>
