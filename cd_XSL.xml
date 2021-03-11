@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <!--Comentarios-->
-<?xml-stylesheet type="text/xsl" href="libreria_5.5.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_2.1.xsl"?>
 <discoteca>
     <cd>
         <titulo>La Rebelion De Los Hombres Rana</titulo>
@@ -16,160 +16,160 @@
         <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
         <cancion tiempo= "3:25">Illetes</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>1995</anioPublicacion>
     </cd>
     <cd>
-        <titulo>Un día en el </titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
+        <titulo>Un día en el Mundo</titulo>
+        <artista>Vetusta Morla</artista>
+        <cancion tiempo= "4:51">Autocrítica</cancion>
+        <cancion tiempo= "3:31">Sálvese quien pueda</cancion>
+        <cancion tiempo= "4:13">Un día en el mundo</cancion>
         <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <cancion tiempo= "5:05">Copenhague</cancion>
+        <cancion tiempo= "3:29">Valiente</cancion>
+        <cancion tiempo= "3:44">La marea</cancion>
+        <cancion tiempo= "3:35">Pequeño desastre animal</cancion>
+        <cancion tiempo= "4:36">La cuadratura del círculo</cancion>
+        <cancion tiempo= "4:27">Año nuevo</cancion>
+        <cancion tiempo= "3:28">Rey sol</cancion>
+        <cancion tiempo= "4:38">Saharabbey road</cancion>
+        <cancion tiempo= "3:36">Al respirar</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>20.71</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Electroviral LP</titulo>
+        <artista>Supersubmarina</artista>
+        <cancion tiempo= "3:55">Magia electroviral</cancion>
+        <cancion tiempo= "4:10">Eléctrico</cancion>
+        <cancion tiempo= "4:40">Niebla</cancion>
+        <cancion tiempo= "3:30">Supersubmarina</cancion>
+        <cancion tiempo= "5:20">Ana</cancion>
+        <cancion tiempo= "3:45">LN Granada</cancion>
+        <cancion tiempo= "4:50">Chas! y aparezco a tu lado</cancion>
+        <cancion tiempo= "4:35">Cientocero</cancion>
+        <cancion tiempo= "3:25">XXI</cancion>
+        <cancion tiempo= "5:30">Elástica Galáctica</cancion>
+        <cancion tiempo= "3:25">Ola de Calor</cancion>
+        <cancion tiempo= "4:25">Centro de atención</cancion>
+        <cancion tiempo= "3:55">Eres</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>2008</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Anillos y raices</titulo>
+        <artista>Second</artista>
+        <cancion tiempo= "3:55">En otra dimensión</cancion>
+        <cancion tiempo= "4:10">Sonará en todas partes</cancion>
+        <cancion tiempo= "4:40">Mira a la gente</cancion>
+        <cancion tiempo= "3:30">contra viento y pronóstico</cancion>
+        <cancion tiempo= "5:20">Teatro infinito</cancion>
+        <cancion tiempo= "3:45">Entre versos de placer</cancion>
+        <cancion tiempo= "4:50">La suerte de tu piek</cancion>
+        <cancion tiempo= "4:35">Quién pensaba en eso</cancion>
+        <cancion tiempo= "3:25">Alguien tiene que hacer algo</cancion>
+        <cancion tiempo= "5:30">Nuestro lado de la ciudad</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>2018</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Imposibildad del fenómeno</titulo>
+        <artista>Miss caffeina</artista>
+        <cancion tiempo= "3:55">Ley de imposibilidad del fenómeno</cancion>
+        <cancion tiempo= "4:10">Cabaret</cancion>
+        <cancion tiempo= "4:40">N=3</cancion>
+        <cancion tiempo= "3:30">Mecánica espiral</cancion>
+        <cancion tiempo= "5:20">La guerra</cancion>
+        <cancion tiempo= "3:45">Lisboa</cancion>
+        <cancion tiempo= "4:50">Ley de grabitación univeral</cancion>
+        <cancion tiempo= "4:35">N=1</cancion>
+        <cancion tiempo= "3:25">Perfecto</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>2010</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Copacabana</titulo>
+        <artista>Izal</artista>
+        <cancion tiempo= "3:55">Prólogo</cancion>
+        <cancion tiempo= "4:10">Copacabana</cancion>
+        <cancion tiempo= "4:40">El Baile</cancion>
+        <cancion tiempo= "3:30">Los seres que me llegan</cancion>
+        <cancion tiempo= "5:20">Oro y humo</cancion>
+        <cancion tiempo= "3:45">Pequeña gran revolución</cancion>
+        <cancion tiempo= "4:50">Historias de vida y placer</cancion>
+        <cancion tiempo= "4:35">En aire y hueso</cancion>
+        <cancion tiempo= "3:25">La piedra invisible</cancion>
+        <cancion tiempo= "5:30">Tambores de guerra</cancion>
+        <cancion tiempo= "3:25">Hacia el norte</cancion>
+        <cancion tiempo= "5:20">Arte moderno</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>2015</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Canciones Para El Tiempo Y La Distancia</titulo>
+        <artista>Ivan Ferreiro</artista>
+        <cancion tiempo= "2:55">Canciones Para El Tiempo Y La Distancia</cancion>
+        <cancion tiempo= "4:10">El Viaje de Chihiro</cancion>
+        <cancion tiempo= "4:40">Turnedo</cancion>
+        <cancion tiempo= "3:30">Mrs. P</cancion>
+        <cancion tiempo= "5:20">SPNB</cancion>
+        <cancion tiempo= "3:45">Estrella de la Muerte</cancion>
+        <cancion tiempo= "4:50">Abrázame</cancion>
+        <cancion tiempo= "4:35">Espectáculo</cancion>
+        <cancion tiempo= "3:25">Ciudadano A</cancion>
+        <cancion tiempo= "5:30">Mi Furia Paranoica</cancion>
+        <cancion tiempo= "3:25">La Banda del Garaje</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>2005</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Salvavida (de las balas perdidas)</titulo>
+        <artista>La M.O.D.A.</artista>
+        <cancion tiempo= "3:55">Mil demonios</cancion>
+        <cancion tiempo= "4:10">La inmensidad</cancion>
+        <cancion tiempo= "4:40">Océano</cancion>
+        <cancion tiempo= "3:30">Una canción para no decir te</cancion>
+        <cancion tiempo= "5:20">Héroes del sábado</cancion>
+        <cancion tiempo= "3:45">O naufragar</cancion>
+        <cancion tiempo= "4:50">Himno nacional</cancion>
+        <cancion tiempo= "4:35">Campo amarillo</cancion>
+        <cancion tiempo= "3:25">Los locos son ellos</cancion>
+        <cancion tiempo= "5:30">Vals de muchos</cancion>
+        <cancion tiempo= "3:25">La vieja banda</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>2017</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
+        <titulo>Último concierto</titulo>
+        <artista>091</artista>
+        <cancion tiempo= "3:55">Qué Fue Del Siglo XX</cancion>
+        <cancion tiempo= "4:10">Otros Como Yo</cancion>
+        <cancion tiempo= "4:40">La Calle Del Viento</cancion>
+        <cancion tiempo= "3:30">La Canción Del Espantapájaros</cancion>
+        <cancion tiempo= "5:20">Tormentas Imaginarias</cancion>
+        <cancion tiempo= "3:45">Un Hombre Con Suerte</cancion>
+        <cancion tiempo= "4:50">El Baile De La Desesperación</cancion>
+        <cancion tiempo= "4:35">Cementerio De Automóviles</cancion>
+        <cancion tiempo= "3:25">La Torre De La Vela</cancion>
+        <cancion tiempo= "5:30">Fuego En Mi Oficina</cancion>
         <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <anioPublicacion>1998</anioPublicacion>
     </cd>
     <cd>
-        <titulo>La Rebelion De Los Hombres Rana</titulo>
-        <artista>El Último de la fila</artista>
-        <cancion tiempo= "3:55">¡Qué bien Huelen los Pinos!</cancion>
-        <cancion tiempo= "4:10">Las Hojas que Ríen</cancion>
-        <cancion tiempo= "4:40">Vestido de Hombre Rana</cancion>
-        <cancion tiempo= "3:30">El Bombero del Atardecer </cancion>
-        <cancion tiempo= "5:20">Sin Llaves</cancion>
-        <cancion tiempo= "3:45">Pedir tu Mano</cancion>
-        <cancion tiempo= "4:50">Bailarás como un Indio</cancion>
-        <cancion tiempo= "4:35">Dímelo Tú</cancion>
-        <cancion tiempo= "3:25">A Medio Soñar</cancion>
-        <cancion tiempo= "5:30">Uva de la Vieja Parra </cancion>
-        <cancion tiempo= "3:25">Illetes</cancion>
-        <selloDiscografico>Reproduciones DJS</selloDiscografico>
-        <añoPublicacion>20.71</añoPublicacion>
+        <titulo>La Flaca</titulo>
+        <artista>Jarabe de Palo</artista>
+        <cancion tiempo= "3:55">Quiero ser poeta</cancion>
+        <cancion tiempo= "4:10">Vuela</cancion>
+        <cancion tiempo= "4:40">No suelo compararme</cancion>
+        <cancion tiempo= "3:30">La flaca</cancion>
+        <cancion tiempo= "5:20">Grita</cancion>
+        <cancion tiempo= "3:45">El bosque de Palo</cancion>
+        <cancion tiempo= "4:50">El lado oscuro</cancion>
+        <cancion tiempo= "4:35">Quítame la vida</cancion>
+        <cancion tiempo= "3:25">Dueño de mi silencio</cancion>
+        <cancion tiempo= "5:30">Desamor</cancion>
+        <selloDiscografico>Virgin Records</selloDiscografico>
+        <anioPublicacion>1996</anioPublicacion>
     </cd>
 
 </discoteca>
